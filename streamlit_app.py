@@ -77,7 +77,7 @@ with tab1:
             start_icon=mt.icons.exit_to_app,
             onclick="none",
             style={"color": "#FFFFFF", "background": "#FF4B4B"},
-            href="https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=896788043455-9iu6puaqdhsvm07t2n793l1vn02pv503.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fwebmasters.readonly&state=AIzaSyDXp1G8xy7GmD1yRrfBLm0kjuUw9EpYkNk&prompt=consent&access_type=offline",
+            href="https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=896788043455-9iu6puaqdhsvm07t2n793l1vn02pv503.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fwebmasters.readonly&state=vryYlMrqKikWGlFVwqhnMpfqr1HMiq&prompt=consent&access_type=offline",
         )
 
         mt.show(key="687")
@@ -118,7 +118,7 @@ with tab1:
     st.sidebar.write("")
 
     st.sidebar.caption(
-        "Made in 🎈 [HubsVN](https:/hubs.vn/), by [KenG], Code Provide from streamlit Github [CharlyWargnier/google-search-console-connector] ."
+        "Made in 🎈 [HubsVN](https:/hubs.vn), by [KenG], Code Provide from streamlit Github [mrken277/google-search] ."
     )
 
     try:
