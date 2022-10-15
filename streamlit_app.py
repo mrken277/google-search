@@ -118,7 +118,7 @@ with tab1:
     st.sidebar.write("")
 
     st.sidebar.caption(
-        "Made in 🎈 [Streamlit](https://www.streamlit.io/), by [Charly Wargnier](https://www.charlywargnier.com/)."
+        "Made in 🎈 [HubsVN](https:/hubs.vn/), by [KenG], Code Provide from streamlit Github [CharlyWargnier/google-search-console-connector] ."
     )
 
     try:
